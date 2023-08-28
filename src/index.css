@@ -144,6 +144,10 @@ progress {
   float: right;
 }
 
+.btn-resetHiScore {
+  float: left;
+}
+
 .options {
   display: flex;
   flex-direction: column;
